@@ -1,0 +1,37 @@
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.parallax {
+    background-image: url("./bgm.jpeg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul.navbar-right li a {
+    margin-top: 18px;
+    color: white;
+    text-decoration: none;
+    padding: 3px 18px;
+    font-family: 'Headland One', serif;
+    font-size: 18px;
+    float: left;
+}
+
+* {
+    font-family:'Headland One', serif;
+}
+
+#head {
+    font-family: 'Headland One', serif;
+    margin-left: 100px;
+    color: white;
+}
+
+#normal-text {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
